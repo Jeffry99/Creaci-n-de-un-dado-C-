@@ -1,1 +1,1 @@
-# Creaci-n-de-un-dado-C-
+# Dado

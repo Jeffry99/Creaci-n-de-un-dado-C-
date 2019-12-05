@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.exe
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.deps.json
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.runtimeconfig.json
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.dll
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\bin\Debug\netcoreapp3.1\Dado.pdb
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.dll
+C:\Users\jeffr\Desktop\UNA\Programación II Verano\GitHub\Dado\Dado\Dado\obj\Debug\netcoreapp3.1\Dado.pdb
